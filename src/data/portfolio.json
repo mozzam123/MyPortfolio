@@ -1,0 +1,125 @@
+{
+
+
+
+    "personal": {
+      "name": "Mozzam Inamdar",
+      "title": "Software Engineer",
+      "location": "Mumbai, India",
+      "description": "AI-focused software engineer passionate about building intelligent systems, with a strong focus on Generative AI, AI Agents, and agentic workflows. Experienced in Python and backend development, with hands-on experience building RAG systems, multi-agent architectures, AI memory, tool calling, orchestration, and AI safety guardrails. Passionate about learning through building real-world AI systems and exploring the future of intelligent agents.",
+      "availability": "Employed"
+    },
+
+    "social": [
+
+      {
+        "name": "GitHub",
+        "url": "https://github.com/mozzam123",
+        "icon": "github"
+      },
+
+      {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/in/mozzam/",
+        "icon": "linkedin"
+      },
+
+
+      {
+        "name": "Email",
+        "url": "mailto:mozzam607@gmail.com",
+        "icon": "mail"
+      }
+
+    ],
+
+    "projects": [
+
+      {
+        "title": "LinkedIn AI Agent",
+        "description": "An interactive modularAn AI-powered LinkedIn automation system built with LangGraph and FastAPI that generates, evaluates, humanizes, and publishes technical content using multi-step AI workflows, structured prompting, and agent-based orchestration.",
+        "technologies": ["Python", "Large Language Model", "Langchain", "LangGraph", "FastAPI", "SQL", "Streamlit"],
+        "link": "https://github.com/mozzam123/linkedin_ai_agent"
+
+      },
+
+      {
+        "title": "Conversation Analysis and Keyword Management System",
+        "description": "This project is a Node.js and Express-based application that allows users to perform conversation analysis and manage keywords effectively. It connects to a MongoDB database using Mongoose and provides various utilities for sentiment analysis, grammar checks, keyword detection, and keyword extraction.",
+        "technologies": ["Node.js", "MongoDB", "Sentiment Analysis", "Grammar Check"],
+        "link": "https://github.com/mozzam123/Conversation-Analysis-and-Keyword-Management-System"
+      },
+
+      {
+        "title": "LinkedIn Message RAG bot",
+        "description": "A simple yet powerful Retrieval-Augmented Generation (RAG) pipeline built from scratch without LangChain, using your own LinkedIn Messages exported from a CSV file.",
+        "technologies": ["sentence-transformers", "Python", "Large Language Model", "FAISS"],
+        "link": "https://github.com/LunaticPython2003/ArchIntelligence"
+      }
+      
+    ],
+
+    "skills": {
+    "languages": ["JavaScript", "TypeScript", "Python", "Shell", "SQL"],
+    "frontend": ["React"],
+    "backend": ["Express", "Django", "FastAPI", "Flask", "REST API"],
+    "databases": ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
+    "ai_ml": [
+      "LangChain",
+      "LangGraph",
+      "LangSmith",
+      "RAG",
+      "Context Engineering",
+      "NLTK",
+      "FAISS",
+      "ChromaDB",
+      "TensorFlow",
+      "PyTorch",
+      "OpenCV",
+      "Scikit-learn"
+    ],
+    "cloud": ["AWS", "Azure"],
+    "devops": ["Docker", "Kubernetes", "Kafka"]
+  },
+
+    "experience": [
+      {
+            "company": "Quantiphi",
+            "position": "Software Developer",
+            "period": "Oct 2025 - Present",
+            "description": "Building AI agents and agentic workflows using LangChain, with a focus on monitoring and AI-driven solutions for the pharmaceutical domain."
+     
+      },
+      {
+        "company": "Tublight Communications Limited",
+        "position": "Software Developer",
+        "period": "Apr 2024 - Oct 2025",
+        "description": "Developed and maintained backend services using Pythonic backend libraries (Flask, Fast, Django). Collaborating with frontend developers to integrate APIs and ensure seamless user experiences. Implementing security measures and optimizing performance for high-traffic applications."
+      },
+
+      {
+        "company": "Finrise Softech Pvt Ltd.",
+        "position": "Software Developer",
+        "period": "Jul 2022 - Apr 2024",
+        "description": "Working across multiple technology stacks, with a primary focus on algorithmic trading and building scalable, reliable trading platforms."
+      }
+
+    ],
+
+    "education": [
+
+      {
+        "institution": "MVM colleges of Commerce and Science",
+        "degree": "BSc.IT",
+        "period": "2019 - 2021"
+      }
+
+    ],
+
+    "contact": {
+      "email": "mozzam607@gmail.com",
+      "phone": "+91 70218 25970",
+      "availability": "Employed at Quantiphi"
+    }
+
+  }
