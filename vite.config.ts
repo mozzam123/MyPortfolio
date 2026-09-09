@@ -7,7 +7,7 @@ export default defineConfig(({ mode }) => ({
   plugins: [
     react(),
   ].filter(Boolean),
-  base: "",
+  base: "/MyPortfolio/",
   resolve: {
     alias: {
       "@": path.resolve(__dirname, "./src"),
